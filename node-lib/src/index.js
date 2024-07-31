@@ -26,3 +26,9 @@ async function pegaArq(caminhoArq) {
 }
 
 export default pegaArq;
+
+module.exports = {
+  extraiLinks,
+  trataErro,
+  pegaArq
+}

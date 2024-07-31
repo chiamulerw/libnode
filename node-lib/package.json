@@ -1,7 +1,6 @@
 {
   "name": "2708-node-lib-md",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -10,16 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alura-cursos/2708-node-lib-md.git"
+    "url": "git+https://github.com/chiamulerw/libnode.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "ana-chiamulera",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alura-cursos/2708-node-lib-md/issues"
+    "url": "https://github.com/chiamulerw/libnode./issues"
   },
-  "homepage": "https://github.com/alura-cursos/2708-node-lib-md#readme",
+  "homepage": "https://github.com/chiamulerw/libnode.git#readme",
   "dependencies": {
     "chalk": "5.0.1"
-  }
+  },
+  "description": "Pacotes de aula"
 }

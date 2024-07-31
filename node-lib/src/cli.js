@@ -11,7 +11,6 @@ function imprimeLista(resultados, identificadores = '') {
     resultados);
 }
 
-
 async function processaTex(argumentos) {
   const caminho = argumentos[2];
 
